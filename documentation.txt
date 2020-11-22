@@ -1,0 +1,8 @@
+JAVASCRIPT
+
+CONSOLA
+Hay diferentes tipos de consola para mostrar:
+console.log( a );
+console.warn( a );
+console.error( a );
+console.info( a );
